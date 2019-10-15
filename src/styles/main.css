@@ -1,0 +1,16 @@
+div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+    flex-basis: 100%;
+
+}
+
+article {
+    padding: 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 150px;
+    margin: 25px;
+}
