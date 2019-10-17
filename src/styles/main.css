@@ -1,16 +1,15 @@
 div {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: top;
     align-self: center;
     flex-basis: 100%;
 
 }
 
 article {
-    padding: 25px;
+    padding: 5px;
     border: 2px solid red;
-    width: 200px;
-    height: 150px;
-    margin: 25px;
+    width: 20%;
+    margin: 5px;
 }
